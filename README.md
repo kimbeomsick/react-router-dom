@@ -7,16 +7,16 @@
 - createBrowserRouter
 - RouterProvider
 - useRouterError()
-- '<Outlet/>'
-- '<Link/>'
-- '<Form action method/>'
+- Outlet
+- Link
+- Form action method
 - loader
 - useLoaderData()
 - action
 - redirect()
 - formData
 - Object.formEntries()
-- '<NavLink/>'
+- NavLink
 - useNavigation()
 - useNavigate()
 - useSubmit()
